@@ -1,0 +1,3 @@
+[submodule "hugo-type-theme"]
+	path = hugo-type-theme
+	url = https://github.com/digitalcraftsman/hugo-type-theme.git
