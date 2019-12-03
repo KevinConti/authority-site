@@ -1,4 +1,4 @@
-baseurl = "https://www.example.com/"
+baseurl = "https://www.authority-site-demo.onrender.com/"
 languageCode = "en-us"
 title = "Type theme"
 theme = "hugo-type-theme"
